@@ -1,0 +1,14 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Emulator config file set to C:\Users\stanislav.stoyanov\documents\visual studio 2015\Projects\NextGamesChat\NextGamesChatCloud\csx\Debug\roles\NextGamesChat\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] DiagnosticsStoreRootPath set to: C:\Users\stanislav.stoyanov\AppData\Local\dftmp\Resources\117bea1f-52a6-4ff8-a08e-0bcd6de36b9e
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Loading config file: C:\Users\stanislav.stoyanov\documents\visual studio 2015\Projects\NextGamesChat\NextGamesChatCloud\csx\Debug\roles\NextGamesChat\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Emulator config file set to C:\Users\stanislav.stoyanov\documents\visual studio 2015\Projects\NextGamesChat\NextGamesChatCloud\csx\Debug\roles\NextGamesChat\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [10/02/2016 11:36:16] Resetting DiagnosticPlugin

@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "nextgameschat"
+  },
+  "hostingPlanName": {
+    "value": "NextGamesChat"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "980d0cf6-8bf2-4fbb-b656-c39c1c1bf960"
+  },
+  "resourceGroup": {
+    "value": "NextGamesChat"
+  }
+}
