@@ -1,2 +1,2 @@
 # NextGamesChat
-An example web chat app for NextGames running in the Azure cloud.
+A web chat app using SignalR and Ninject running in the Azure cloud.
